@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Marker</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="Formulario_guardar">Formulario de Registro sitio</string>
+
+    <string name="Formulario_actualizar">Actualizacion de Registro</string>
+
+    <string name="Latitud">Latitud</string>
+    <string name="Longitud">Longitud</string>
+    <string name="Fecha_hora">Fecha Hora</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Descripcion">Descripcion</string>
+
+    <string name="Guardar">Guardar</string>
+
+    <string name="Actualizar">Actualizar</string>
+</resources>
